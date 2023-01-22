@@ -17,7 +17,7 @@ Install the dependencies with the frontend in `./client/`
 
 `npm install`
 
-#### Run the frontend in `./client/` with `npm run start` or `yarn start`, and run the backend in the parent directory in another terminal. Both *MUST* be running for MaxiClip to properly function.
+#### Run the frontend in `./client/` with `npm run start` or `yarn start`, and run the backend in the parent directory in another terminal with `npm run dev`. Both *MUST* be running for MaxiClip to properly function.
 
 ## Congratulations! You can now enter the worlds most premiere gaming center ;) 
 
