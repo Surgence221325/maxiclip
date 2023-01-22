@@ -8,7 +8,7 @@ After cloning the directory, install dependencies with npm/yarn
 
 `npm install`
 
-You can run the backend with `npm run dev` or `yarn dev.
+You can run the backend with `npm run dev` or `yarn dev`.
 
 ### You will have to do the same on the front end as well
 Install the dependencies with the frontend in `./client/`
